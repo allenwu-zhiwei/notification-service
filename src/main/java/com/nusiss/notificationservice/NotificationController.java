@@ -8,9 +8,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class NotificationController {
 
-    @RequestMapping(value = "/nofitfy", method = RequestMethod.GET)
+    @RequestMapping(value = "/notify", method = RequestMethod.GET)
     public ApiResponse nofitfy(){
 
+        System.out.println("Notify successfully");
         return ApiResponse.success();
     }
 }
