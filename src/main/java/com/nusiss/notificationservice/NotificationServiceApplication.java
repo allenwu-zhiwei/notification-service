@@ -1,4 +1,4 @@
-package com.nusiss.notification_service;
+package com.nusiss.notificationservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

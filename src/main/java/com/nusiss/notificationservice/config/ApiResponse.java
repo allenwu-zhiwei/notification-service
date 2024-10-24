@@ -1,4 +1,4 @@
-package com.nusiss.notification_service.config;
+package com.nusiss.notificationservice.config;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

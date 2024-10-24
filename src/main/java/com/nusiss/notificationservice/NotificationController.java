@@ -1,4 +1,6 @@
-import com.nusiss.notification_service.config.ApiResponse;
+package com.nusiss.notificationservice;
+
+import com.nusiss.notificationservice.config.ApiResponse;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.nusiss.notification_service;
+package com.nusiss.notificationservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
