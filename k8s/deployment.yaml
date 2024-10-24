@@ -16,7 +16,7 @@ spec:
         - name: notification-service
           image: alllenwu249/notification-service:latest
           ports:
-            - containerPort: 8080
+            - containerPort: 8087
           resources:
             requests:
               cpu: "200m"
