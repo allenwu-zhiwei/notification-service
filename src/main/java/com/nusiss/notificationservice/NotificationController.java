@@ -20,17 +20,18 @@ public class NotificationController {
 
         try {
             //check identify
-            Thread.sleep(1000);
+            Thread.sleep(300);
             //check inventory
-            Thread.sleep(1000);
+            Thread.sleep(300);
             //check balance
-            Thread.sleep(1000);
+            Thread.sleep(300);
             //make an order
-            Thread.sleep(1000);
+            Thread.sleep(300);
             //make a payment
-            Thread.sleep(1000);
+            Thread.sleep(300);
             //notify result
-            Thread.sleep(1000);
+            Thread.sleep(300);
+            System.out.println("Make a order successfully");
 
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
